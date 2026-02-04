@@ -1,26 +1,30 @@
-# Hi, I'm Mahlatse Seloane 👋
+### 👋 Hi, I’m Mahlatse Seloane
 
-I’m a graduate from the University of the Witwatersrand, holding a Bachelor of Engineering Science in Digital Arts degree.
+I’m a Software Engineer with 2+ years of experience building modular, performance-conscious systems across real-time and simulation-style applications using C++, Java, and C#.
 
-Over the past few years, I’ve been working as a Junior Game Developer, which aligns with my academic background. However, my focus has shifted from simply becoming a better game developer to becoming a stronger software developer overall. That means improving my fundamentals while also learning how real-world projects are planned, executed, and maintained. I’m especially interested in structured software development, system design, and collaborative team workflows.
+I hold a Bachelor of Engineering Science in Digital Arts from the University of the Witwatersrand, with a strong foundation in object-oriented programming, data structures, algorithms, and clean software architecture.
 
-I created this GitHub account after losing access to my previous one. All my work going forward will be uploaded and maintained here.
+My work focuses on designing well-structured, maintainable systems — emphasizing separation of concerns, disciplined workflows, and long-term clarity. Many of the projects in this repository are simulation engines, game logic systems, and AI-driven frameworks built with professional engineering principles rather than quick prototypes.
 
-The projects you’ll find here represent my ongoing effort to build with real-world discipline — balancing creativity with structure. My goal is not just to write clean, functional code, but to think critically about design, documentation, and long-term maintainability.
+Several projects began during my university studies and are now being revisited with a more professional mindset and refactored to reflect industry-aligned practices, including modular architecture, defensive programming, separation of concerns, and clean commit history
 
-Many of the projects here were originally completed during my time at university. I’m now revisiting them with a more professional mindset, focusing on clarity, organization, and intentional decision-making in how each project evolves.
+This GitHub serves as an active engineering portfolio showcasing:
 
-While this GitHub is new, it reflects a turning point in how I approach development: with greater discipline, consistency, and a long-term goal of becoming a reliable, thoughtful contributor on any software team.
+* System design and modular architectures
+* Real-time and simulation-based software systems
+* AI behavior frameworks and rule-based engines
+* Professional development workflows and refactoring practices
+
+My goal is to continue growing as a reliable, thoughtful software engineer who builds clear, scalable systems and contributes effectively within collaborative development environments.
 
 ---
+
 ## 📁 Project Categories
 
 Below is a categorized overview of the work I’m building and revisiting, grouped by language and discipline.
 
-### 💻 C++ Projects
+### 💻 C++
 
+### 💻 Unity / C#
 
-### 💻 Unity / C# Projects
-
-
-### 💻 Java Projects
+### 💻 Java
